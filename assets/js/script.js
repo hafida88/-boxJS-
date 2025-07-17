@@ -1,0 +1,2 @@
+
+alert("bienvenue sur mon site");
